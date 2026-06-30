@@ -1,5 +1,140 @@
-# Power-BI-Project
+# 🏏 IPL Analysis Dashboard (2008–2025) | Power BI
 
-🏏 IPL Analysis Dashboard (2008–2025)
+An interactive **Power BI Dashboard** that provides comprehensive insights into the Indian Premier League (IPL) from **2008 to 2025**.
 
-This project is an interactive IPL (Indian Premier League) analytics dashboard built to analyze season-wise and team-wise performance data from 2008 to 2025. The dashboard enables users to dynamically explore key tournament insights using filters and slicers, delivering a complete view of IPL statistics in an intuitive and visually engaging format.
+The dashboard enables users to explore season-wise performance, champions, player statistics, points tables, batting records, and much more using interactive filters.
+
+---
+
+## 📊 Dashboard Preview
+
+![IPL Dashboard](IPL%20Dashboard%20(1).png)
+
+---
+
+# 🚀 Project Overview
+
+This project was developed to analyze IPL historical data and present meaningful insights through an interactive Power BI dashboard.
+
+Users can select any IPL season and instantly explore:
+
+- Champions & Runner-up
+- Orange Cap Winner
+- Purple Cap Winner
+- Points Table
+- Total Sixes
+- Total Fours
+- Total Matches
+- Number of Teams
+- Venues
+- Centuries
+- Half-Centuries
+
+---
+
+# 📌 Features
+
+### Season Filter
+
+- Analyze any IPL season from **2008–2025**
+- Dynamic dashboard updates
+
+### Tournament Summary
+
+- Champion
+- Runner-Up
+- Total Matches
+- Total Teams
+- Venues
+- Sixes
+- Fours
+- Centuries
+- Half-Centuries
+
+### Player Statistics
+
+- Orange Cap Holder
+- Purple Cap Holder
+- Most Sixes
+- Most Fours
+
+### Team Analysis
+
+- Complete Points Table
+- Wins
+- Losses
+- No Result
+- Total Points
+
+---
+
+# 🛠️ Tools & Technologies
+
+- Power BI Desktop
+- Power Query
+- DAX
+- Data Modeling
+- Interactive Visualizations
+
+---
+
+# 📈 Power BI Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- Star Schema
+- DAX Measures
+- KPI Cards
+- Slicers
+- Conditional Formatting
+- Custom Visual Design
+- Dashboard Storytelling
+
+---
+
+# 📂 Dataset
+
+The dataset contains IPL statistics from **2008 to 2025**, including:
+
+- Match Results
+- Teams
+- Venues
+- Player Statistics
+- Orange Cap Records
+- Purple Cap Records
+- Batting Statistics
+- Tournament Winners
+- Points Table
+
+---
+
+# 📷 Dashboard Highlights
+
+✔ Champion & Runner-Up
+
+✔ Orange Cap Analysis
+
+✔ Purple Cap Analysis
+
+✔ Points Table
+
+✔ Team Statistics
+
+✔ Batting Records
+
+✔ Interactive Season Filter
+
+---
+
+# 🎯 Business Insights
+
+This dashboard helps users:
+
+- Compare team performances across seasons
+- Identify top-performing players
+- Analyze batting trends
+- Study tournament winners
+- Explore season-wise IPL statistics
+- Track overall tournament growth
+

@@ -8,7 +8,9 @@ The dashboard enables users to explore season-wise performance, champions, playe
 
 ## 📊 Dashboard Preview
 
-![Uploading IPL Dashboard (1).png…]()
+<img width="1340" height="741" alt="IPL Dashboard (1)" src="https://github.com/user-attachments/assets/e4fca879-4fa6-4963-8ccc-7fdcffb75086" />
+
+
 
 
 ---
